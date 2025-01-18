@@ -1,7 +1,7 @@
 import React from "react";
 import Form from "../../forms/components/Form";
 import ROUTES from "../../routes/routesModel";
-import Input from "../../forms/components/Input";
+import Input from "../../forms/components/Input.jsx";
 
 const SignupForm = ({
   title,
