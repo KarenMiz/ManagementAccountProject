@@ -6,6 +6,7 @@ function App() {
   return (
   <SignupPage/>
   );
+  // :)
 }
 
 export default App;
