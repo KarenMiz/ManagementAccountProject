@@ -27,7 +27,8 @@ export default function SignupPage() {
 
  
 
-  const { user } = useUser();
+  const { user } = useUser();node -v
+
   if (user) return <Navigate to={ROUTES.ROOT} replace />
 
   return (
